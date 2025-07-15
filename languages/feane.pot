@@ -1,0 +1,545 @@
+# Copyright (C) 2024 Feane Restaurant Theme
+# This file is distributed under the same license as the Feane Restaurant Theme package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Feane Restaurant Theme 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/feane\n"
+"POT-Creation-Date: 2024-01-01 12:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: functions.php:42
+msgid "Menu Principal"
+msgstr ""
+
+#: functions.php:43
+msgid "Menu Footer"
+msgstr ""
+
+#: functions.php:52
+msgid "Sidebar Principale"
+msgstr ""
+
+#: functions.php:53
+msgid "Widgets de la sidebar principale"
+msgstr ""
+
+#: functions.php:59
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:60
+msgid "Première colonne du footer"
+msgstr ""
+
+#: functions.php:66
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:67
+msgid "Deuxième colonne du footer"
+msgstr ""
+
+#: functions.php:73
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:74
+msgid "Troisième colonne du footer"
+msgstr ""
+
+#: functions.php:85
+msgid "Plats"
+msgstr ""
+
+#: functions.php:86
+msgid "Plat"
+msgstr ""
+
+#: functions.php:87
+msgid "Ajouter un plat"
+msgstr ""
+
+#: functions.php:88
+msgid "Ajouter un nouveau plat"
+msgstr ""
+
+#: functions.php:89
+msgid "Modifier le plat"
+msgstr ""
+
+#: functions.php:90
+msgid "Nouveau plat"
+msgstr ""
+
+#: functions.php:91
+msgid "Voir le plat"
+msgstr ""
+
+#: functions.php:92
+msgid "Rechercher des plats"
+msgstr ""
+
+#: functions.php:93
+msgid "Aucun plat trouvé"
+msgstr ""
+
+#: functions.php:94
+msgid "Aucun plat trouvé dans la corbeille"
+msgstr ""
+
+#: functions.php:105
+msgid "Témoignages"
+msgstr ""
+
+#: functions.php:106
+msgid "Témoignage"
+msgstr ""
+
+#: functions.php:107
+msgid "Ajouter un témoignage"
+msgstr ""
+
+#: functions.php:108
+msgid "Ajouter un nouveau témoignage"
+msgstr ""
+
+#: functions.php:109
+msgid "Modifier le témoignage"
+msgstr ""
+
+#: functions.php:110
+msgid "Nouveau témoignage"
+msgstr ""
+
+#: functions.php:111
+msgid "Voir le témoignage"
+msgstr ""
+
+#: functions.php:112
+msgid "Rechercher des témoignages"
+msgstr ""
+
+#: functions.php:113
+msgid "Aucun témoignage trouvé"
+msgstr ""
+
+#: functions.php:114
+msgid "Aucun témoignage trouvé dans la corbeille"
+msgstr ""
+
+#: functions.php:125
+msgid "Catégories de menu"
+msgstr ""
+
+#: functions.php:126
+msgid "Catégorie de menu"
+msgstr ""
+
+#: functions.php:140
+msgid "Détails du plat"
+msgstr ""
+
+#: functions.php:150
+msgid "Prix"
+msgstr ""
+
+#: functions.php:153
+msgid "Catégorie"
+msgstr ""
+
+#: functions.php:154
+msgid "Sélectionner une catégorie"
+msgstr ""
+
+#: functions.php:155
+msgid "Burger"
+msgstr ""
+
+#: functions.php:156
+msgid "Pizza"
+msgstr ""
+
+#: functions.php:157
+msgid "Pasta"
+msgstr ""
+
+#: functions.php:158
+msgid "Fries"
+msgstr ""
+
+#: index.php:47
+msgid "Commander maintenant"
+msgstr ""
+
+#: index.php:95
+msgid "Off"
+msgstr ""
+
+#: index.php:97
+msgid "Commander maintenant"
+msgstr ""
+
+#: index.php:120
+msgid "Tasty Thursdays"
+msgstr ""
+
+#: index.php:125
+msgid "Commander maintenant"
+msgstr ""
+
+#: index.php:140
+msgid "Pizza Days"
+msgstr ""
+
+#: index.php:145
+msgid "Commander maintenant"
+msgstr ""
+
+#: index.php:155
+msgid "Notre Menu"
+msgstr ""
+
+#: index.php:160
+msgid "Tout"
+msgstr ""
+
+#: index.php:161
+msgid "Burger"
+msgstr ""
+
+#: index.php:162
+msgid "Pizza"
+msgstr ""
+
+#: index.php:163
+msgid "Pasta"
+msgstr ""
+
+#: index.php:164
+msgid "Fries"
+msgstr ""
+
+#: index.php:220
+msgid "Nous sommes Feane"
+msgstr ""
+
+#: index.php:225
+msgid "Il existe de nombreuses variations de passages de Lorem Ipsum disponibles, mais la majorité ont subi une altération sous une forme ou une autre, par humour injecté, ou des mots aléatoires qui ne semblent même pas légèrement crédibles."
+msgstr ""
+
+#: index.php:227
+msgid "Lire plus"
+msgstr ""
+
+#: index.php:235
+msgid "Réserver une table"
+msgstr ""
+
+#: index.php:242
+msgid "Votre nom"
+msgstr ""
+
+#: index.php:245
+msgid "Numéro de téléphone"
+msgstr ""
+
+#: index.php:248
+msgid "Votre email"
+msgstr ""
+
+#: index.php:251
+msgid "Combien de personnes ?"
+msgstr ""
+
+#: index.php:258
+msgid "Réserver maintenant"
+msgstr ""
+
+#: index.php:270
+msgid "Ce que disent nos clients"
+msgstr ""
+
+#: header.php:67
+msgid "Rechercher..."
+msgstr ""
+
+#: header.php:71
+msgid "Commander en ligne"
+msgstr ""
+
+#: footer.php:4
+msgid "Contactez-nous"
+msgstr ""
+
+#: footer.php:8
+msgid "Localisation"
+msgstr ""
+
+#: footer.php:13
+msgid "Call +01 1234567890"
+msgstr ""
+
+#: footer.php:20
+msgid "Heures d'ouverture"
+msgstr ""
+
+#: footer.php:22
+msgid "Tous les jours"
+msgstr ""
+
+#: footer.php:23
+msgid "10.00 Am -10.00 Pm"
+msgstr ""
+
+#: footer.php:28
+msgid "Tous droits réservés par"
+msgstr ""
+
+#: page.php:25
+msgid "Pages:"
+msgstr ""
+
+#: page.php:35
+msgid "Modifier <span class=\"screen-reader-text\">\"%s\"</span>"
+msgstr ""
+
+#: single.php:25
+msgid "Navigation des articles"
+msgstr ""
+
+#: single.php:30
+msgid "Modifier <span class=\"screen-reader-text\">\"%s\"</span>"
+msgstr ""
+
+#: single.php:45
+msgid "Navigation des articles"
+msgstr ""
+
+#: archive-menu_item.php:12
+msgid "Notre Menu"
+msgstr ""
+
+#: archive-menu_item.php:20
+msgid "Tout"
+msgstr ""
+
+#: archive-menu_item.php:21
+msgid "Burger"
+msgstr ""
+
+#: archive-menu_item.php:22
+msgid "Pizza"
+msgstr ""
+
+#: archive-menu_item.php:23
+msgid "Pasta"
+msgstr ""
+
+#: archive-menu_item.php:24
+msgid "Fries"
+msgstr ""
+
+#: archive-menu_item.php:55
+msgid "Aucun plat trouvé."
+msgstr ""
+
+#: archive-menu_item.php:63
+msgid "&laquo; Précédent"
+msgstr ""
+
+#: archive-menu_item.php:64
+msgid "Suivant &raquo;"
+msgstr ""
+
+#: single-menu_item.php:25
+msgid "Réserver une table"
+msgstr ""
+
+#: single-menu_item.php:29
+msgid "Commander en ligne"
+msgstr ""
+
+#: single-menu_item.php:40
+msgid "Navigation des plats"
+msgstr ""
+
+#: single-menu_item.php:45
+msgid "Navigation des plats"
+msgstr ""
+
+#: single-menu_item.php:55
+msgid "Autres plats"
+msgstr ""
+
+#: single-menu_item.php:75
+msgid "Catégories"
+msgstr ""
+
+#: single-menu_item.php:76
+msgid "Tout le menu"
+msgstr ""
+
+#: single-menu_item.php:77
+msgid "Burgers"
+msgstr ""
+
+#: single-menu_item.php:78
+msgid "Pizzas"
+msgstr ""
+
+#: single-menu_item.php:79
+msgid "Pâtes"
+msgstr ""
+
+#: single-menu_item.php:80
+msgid "Frites"
+msgstr ""
+
+#: sidebar.php:4
+msgid "Sidebar principale"
+msgstr ""
+
+#: inc/blocks.php:25
+msgid "Fast Food Restaurant"
+msgstr ""
+
+#: inc/blocks.php:29
+msgid "Doloremque, itaque aperiam facilis rerum, commodi, temporibus sapiente ad mollitia laborum quam quisquam esse error unde."
+msgstr ""
+
+#: inc/blocks.php:33
+msgid "Commander maintenant"
+msgstr ""
+
+#: inc/blocks.php:50
+msgid "Notre Menu"
+msgstr ""
+
+#: inc/blocks.php:70
+msgid "Ce que disent nos clients"
+msgstr ""
+
+#: inc/blocks.php:85
+msgid "Réserver une table"
+msgstr ""
+
+#: inc/customizer.php:12
+msgid "Section Hero"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Image de fond du hero"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "Section À propos"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Titre de la section à propos"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Nous sommes Feane"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Texte de la section à propos"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Il existe de nombreuses variations de passages de Lorem Ipsum disponibles, mais la majorité ont subi une altération sous une forme ou une autre, par humour injecté, ou des mots aléatoires qui ne semblent même pas légèrement crédibles."
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Image de la section à propos"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Informations de contact"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Adresse"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Localisation"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Lien de l'adresse (Google Maps)"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Téléphone"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Call +01 1234567890"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Email"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Réseaux sociaux"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:113
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Heures d'ouverture"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Jours d'ouverture"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "Tous les jours"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Heures d'ouverture"
+msgstr ""
+
+#: inc/customizer.php:157
+msgid "10.00 Am -10.00 Pm"
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Description du footer"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Nécessaire, faisant de ceci le premier vrai générateur sur Internet. Il utilise un dictionnaire de plus de 200 mots latins, combiné avec"
+msgstr "" 

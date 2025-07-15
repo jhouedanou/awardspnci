@@ -1,0 +1,86 @@
+/*
+Theme Name: Feane Restaurant
+Description: Thème WordPress pour restaurant basé sur le design Feane, compatible avec Gutenberg
+Version: 1.0
+Author: Votre nom
+Text Domain: feane
+*/
+
+/* Import des styles existants */
+@import url('css/bootstrap.css');
+@import url('css/font-awesome.min.css');
+@import url('css/style.css');
+@import url('css/responsive.css');
+
+/* Styles spécifiques WordPress */
+.wp-block-image img {
+    max-width: 100%;
+    height: auto;
+}
+
+.alignwide {
+    margin-left: -10%;
+    margin-right: -10%;
+    max-width: 120%;
+}
+
+.alignfull {
+    margin-left: calc(-100vw / 2 + 100% / 2);
+    margin-right: calc(-100vw / 2 + 100% / 2);
+    max-width: 100vw;
+}
+
+.wp-block-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.wp-block-gallery .blocks-gallery-item {
+    margin: 0 16px 16px 0;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+}
+
+/* Styles pour les blocs Gutenberg personnalisés */
+.feane-hero-section {
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+}
+
+.feane-menu-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.feane-offer-card {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.feane-offer-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Responsive pour WordPress */
+@media (max-width: 768px) {
+    .alignwide {
+        margin-left: 0;
+        margin-right: 0;
+        max-width: 100%;
+    }
+} 
